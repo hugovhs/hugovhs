@@ -17,7 +17,7 @@ Soy **desarrollador backend especializado en ecommerce** con más de **12 años 
 
 ## 🚀 Tecnologías y herramientas principales
 - **Lenguajes:** PHP, C#, JavaScript, Dart, SQL  
-- **Frameworks y plataformas:** Node.js, ASP.NET, Magento 2 / Adobe Commerce, Laravel, Flutter
+- **Frameworks y plataformas:** Node.js, .NET, Magento 2 / Adobe Commerce, Laravel, Flutter
 - **Bases de datos:** MySQL, MariaDB, SQL Server, MongoDB
 - **Otros:** Linux, Servidores, VPS, AWS
 
