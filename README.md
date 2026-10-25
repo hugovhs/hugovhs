@@ -1,10 +1,10 @@
 # ![https://hugovhs.dev](./icon.png) ¡Hola mundo! Mi nombre es Hugo Santos 👋
 
-## Fullstack Developer
+## Software Engineer | Full Stack
 
-![https://github.com/hugovhs](./banner_2026.jpg)
+![https://github.com/hugovhs](./banner.jpg)
 
-Soy **desarrollador fullstack** con más de **13 años de experiencia** creando soluciones tecnológicas para empresas de distintos tamaños, tanto nacionales como internacionales.  
+Soy **Software Engineer | Full Stack** con más de **13 años de experiencia** creando soluciones tecnológicas para empresas de distintos tamaños, tanto nacionales como internacionales.  
 
 💻 En los últimos años he tenido la oportunidad de trabajar en el desarrollo y mantenimiento de multiples **tiendas en línea**, usando **Magento y Adobe Commerce** como tecnología principal, además cuento con certificación oficial de Adobe.  
 
